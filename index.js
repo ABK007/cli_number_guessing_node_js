@@ -1,8 +1,8 @@
+#! /usr/bin/env node
 import inquirer from "inquirer";
 import chalk from "chalk";
 // Generating random number
 const randomNumber = Math.floor(Math.random() * 10 + 1);
-console.log("Guess Number " + randomNumber);
 // Getting user input
 const answers = await inquirer.prompt([
     { name: "userGuessedNumber",

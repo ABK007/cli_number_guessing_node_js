@@ -1,6 +1,6 @@
 {
-  "name": "@abk007_cli_number_guessing_node_js",
-  "version": "1.0.0",
+  "name": "abk007_cli_number_guessing_node_js",
+  "version": "2.0.0",
   "description": "",
   "main": "index.js",
   "type": "module",
